@@ -137,4 +137,4 @@ The component uses CSS for styling. You can customize the styles by modifying th
 
 ## License
 
-MIT
+.Creative Studio
